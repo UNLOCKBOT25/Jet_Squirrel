@@ -1,2 +1,2 @@
-SquirrelPlayer.sprite3/
-CheesyPuffs.sprite3/
+ sprite/SquirrelPlayer.sprite3/
+sprite/CheesyPuffs.sprite3/
