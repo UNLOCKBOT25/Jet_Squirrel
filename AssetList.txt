@@ -1,2 +1,2 @@
- sprite/SquirrelPlayer.sprite3/
-sprite/CheesyPuffs.sprite3/
+ sprite/UNLOCKBOT25/Jet_Squirrel/SquirrelPlayer.sprite3/
+sprite/UNLOCKBOT25/Jet_Squirrel/CheesyPuffs.sprite3/
